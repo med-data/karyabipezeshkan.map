@@ -1,19 +1,11 @@
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRYztbobnPhjrdIzhO6hvNMN31vz4Cz4XbaRCIJ7HLbHDKsZ-9E9NqhMR8gBd2lR1Idydq42-71-R9/pubhtml?gid=164271551&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-
-
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
 - Leaflet Map https://med-data.github.io/karyabipezeshkan.map/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1G3vP05V7brZM_4Crs-Y00qZQgamA-NuZKoyjDtMpuuU/edit#gid=0
 
-## Create your own
-- See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
+
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
