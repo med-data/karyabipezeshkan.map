@@ -49,6 +49,13 @@ h6 {
   z-index: 9999;
 }
 
+.leaflet-popup-content-wrapper {
+	padding: 1px;
+	text-align: right;
+	border-radius: 12px;
+	}
+
+
 form {
   margin-top: 2px;
 }
